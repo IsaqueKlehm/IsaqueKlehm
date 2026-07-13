@@ -10,19 +10,21 @@
 
 ---
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,mysql,git,github,linux,vscode"/>
-
-</div>
-
----
-
-## Perfil
+## Sobre
 
 Estudante de Ciência da Computação e Técnico em Desenvolvimento de Sistemas.
 
 Focado em desenvolvimento Back-end, engenharia de software e construção de aplicações utilizando Java e Python.
+
+---
+
+<div align="center">
+
+## Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,mysql,git,github,linux,vscode"/>
+
+</div>
 
 ---
 
