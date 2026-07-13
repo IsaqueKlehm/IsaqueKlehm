@@ -170,8 +170,7 @@ Java • Python
 </table>
 
 ---
-
-## Estatísticas
+## GitHub Activity
 
 <p align="center">
 
@@ -180,10 +179,6 @@ Java • Python
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueKlehm&layout=compact&theme=dracula&hide_border=true"/>
 
 </p>
-
----
-
-## Contributions
 
 <p align="center">
 
