@@ -2,63 +2,99 @@
 
 # Isaque Klehm
 
-`Computer Science Student`
+Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+MySQL"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=2500&color=8B949E&center=true&vCenter=true&width=450&lines=Java;Python;MySQL;Git;Linux"/>
 
 </div>
 
 ---
 
 <table>
+
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%">
 
-### 👨‍💻 About
+### About
 
-```text
-Name       : Isaque Klehm
-Education  : Ciência da Computação
+```bash
+$ whoami
+
+Name        -> Isaque Klehm
+Location    -> Joinville, SC
+Education   -> Computer Science
+Focus       -> Backend Development
 ```
-
-### 🛠 Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
 
 </td>
 
-<td width="45%">
+<td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&theme=github_dark&hide_border=true&show_icons=true"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
+### Technologies
+
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=github-dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,linux,vscode"/>
 
 </p>
+
+---
+
+### Featured Projects
+
+<table>
+
+<tr>
+
+<td>
+
+📦 Inventory System
+
+Sistema de gerenciamento de estoque.
+
+</td>
+
+<td>
+
+🎮 Number Guess Game
+
+Projeto desenvolvido em Java.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🤖 Selenium Bot
+
+Automação utilizando Selenium.
+
+</td>
+
+<td>
+
+📊 Data Analysis
+
+Projetos utilizando Python.
+
+</td>
+
+</tr>
+
+</table>
