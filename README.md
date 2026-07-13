@@ -2,9 +2,11 @@
 
 # Isaque Klehm
 
-`Computer Science Student`
+<sub>Computer Science Student • Joinville, SC</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=2500&color=58A6FF&center=true&vCenter=true&width=380&lines=Java;Python;JavaScript;PHP;MySQL"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,php,html,css,mysql,git,github,linux,vscode" />
 
 </div>
 
@@ -13,22 +15,33 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### About
 
-```yaml
-Name:       Isaque Klehm
-Location:   Joinville, SC
-Course:     Computer Science
-Focus:      Backend Development
+```txt
+Name      : Isaque Klehm
+Course    : Computer Science
+Location  : Joinville, SC
+
+Interest  : Backend Development
 ```
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IsaqueKlehm&show_icons=true&theme=github_dark&hide_border=true"/>
+### Current
+
+```txt
+Learning
+├─ Java
+├─ Data Structures
+└─ Spring Boot
+
+Building
+└─ Personal Projects
+```
 
 </td>
 
@@ -37,25 +50,10 @@ Focus:      Backend Development
 
 ---
 
-## Technologies
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,php,html,css,mysql,git,github,linux,vscode"/>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsaqueKlehm&show_icons=true&theme=github_dark&hide_border=true"/>
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueKlehm&layout=compact&theme=github_dark&hide_border=true"/>
 
-## Currently
-
-```text
-📚 Studying
-├── Java
-├── Data Structures
-└── Object-Oriented Programming
-
-💻 Building
-└── Personal Projects
-
-🛠 Environment
-└── Linux • VS Code • Git
-```
+</div>
