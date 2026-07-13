@@ -170,23 +170,6 @@ Java • Python
 </table>
 
 ---
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IsaqueKlehm&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueKlehm&layout=compact&theme=dracula&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/IsaqueKlehm/IsaqueKlehm/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
 
 ## Redes
 
