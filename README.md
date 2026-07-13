@@ -28,7 +28,11 @@ Focado em desenvolvimento Back-end, engenharia de software e construção de apl
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IsaqueKlehm/IsaqueKlehm/output/github-contribution-grid-snake.svg"/>
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=IsaqueKlehm&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueKlehm&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -38,7 +42,7 @@ Focado em desenvolvimento Back-end, engenharia de software e construção de apl
 
 ## Redes
 
-<a href="https://www.linkedin.com/in/isaque-klehm/">
+<a href="https://www.linkedin.com/in/isaque-klehm/" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
