@@ -40,7 +40,7 @@ database:
 
 <td width="52%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IsaqueKlehm&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
 </td>
 
@@ -88,6 +88,6 @@ database:
 
 ## Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueKlehm&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
