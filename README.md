@@ -18,31 +18,11 @@
 
 ---
 
-## Sobre
+## Perfil
 
 Estudante de Ciência da Computação e Técnico em Desenvolvimento de Sistemas.
 
 Focado em desenvolvimento Back-end, engenharia de software e construção de aplicações utilizando Java e Python.
-
----
-
-<div align="center">
-
-## Projetos
-
-<a href="https://github.com/IsaqueKlehm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaqueKlehm&repo=Sistema-Estoque&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/IsaqueKlehm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaqueKlehm&repo=Dashboard-Vendas&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/IsaqueKlehm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaqueKlehm&repo=Automacao-Python&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
