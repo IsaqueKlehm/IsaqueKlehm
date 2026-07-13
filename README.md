@@ -2,11 +2,9 @@
 
 # Isaque Klehm
 
-Computer Science Student
+### Ciência da Computação
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=2500&color=8B949E&center=true&vCenter=true&width=450&lines=Java;Python;MySQL;Git;Linux"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=3000&color=8B949E&center=true&vCenter=true&width=350&lines=Java;Python;PHP;MySQL;Linux"/>
 
 </div>
 
@@ -16,24 +14,33 @@ Computer Science Student
 
 <tr>
 
-<td width="60%">
+<td width="48%" valign="top">
 
 ### About
 
-```bash
-$ whoami
+```yaml
+name: Isaque Klehm
 
-Name        -> Isaque Klehm
-Location    -> Joinville, SC
-Education   -> Computer Science
-Focus       -> Backend Development
+location: Joinville, SC
+
+education:
+  - Ciência da Computação
+
+languages:
+  - Java
+  - Python
+  - JavaScript
+  - PHP
+
+database:
+  - MySQL
 ```
 
 </td>
 
-<td width="40%" align="center">
+<td width="52%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&theme=github_dark&hide_border=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
 </td>
 
@@ -43,58 +50,44 @@ Focus       -> Backend Development
 
 ---
 
-### Technologies
+<div align="center">
 
-<p align="center">
+## Technologies
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,mysql,git,github,linux,vscode"/>
 
-</p>
+</div>
 
 ---
 
-### Featured Projects
+<div align="center">
 
-<table>
+## Featured Projects
 
-<tr>
+<a href="https://github.com/SEU_USUARIO/Jogo-do-Numero-Secreto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=Jogo-do-Numero-Secreto&theme=github_dark&hide_border=true"/>
+</a>
 
-<td>
+<a href="https://github.com/SEU_USUARIO/Bot-com-Selenium">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=Bot-com-Selenium&theme=github_dark&hide_border=true"/>
+</a>
 
-📦 Inventory System
+<a href="https://github.com/SEU_USUARIO/E-Ticket">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=E-Ticket&theme=github_dark&hide_border=true"/>
+</a>
 
-Sistema de gerenciamento de estoque.
+<a href="https://github.com/SEU_USUARIO/BoardGames">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=BoardGames&theme=github_dark&hide_border=true"/>
+</a>
 
-</td>
+</div>
 
-<td>
+---
 
-🎮 Number Guess Game
+<div align="center">
 
-Projeto desenvolvido em Java.
+## Languages
 
-</td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
 
-</tr>
-
-<tr>
-
-<td>
-
-🤖 Selenium Bot
-
-Automação utilizando Selenium.
-
-</td>
-
-<td>
-
-📊 Data Analysis
-
-Projetos utilizando Python.
-
-</td>
-
-</tr>
-
-</table>
+</div>
